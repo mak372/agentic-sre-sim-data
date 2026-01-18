@@ -1,0 +1,5 @@
+2026-01-15T13:41:03Z WARN  api-service Kafka consumer lag detected (18,432 messages)
+2026-01-15T13:41:07Z INFO  api-service Message processing latency 1.9s
+2026-01-15T13:41:11Z WARN  api-service Queue depth exceeded alert threshold
+2026-01-15T13:41:15Z ERROR api-service Failed to process message: timeout
+2026-01-15T13:41:20Z INFO  api-service Retrying message batch

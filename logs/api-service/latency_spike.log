@@ -1,0 +1,5 @@
+2026-01-15T10:22:01Z WARN  api-service Slow database query detected (4.8s)
+2026-01-15T10:22:04Z WARN  api-service Connection pool saturation at 91%
+2026-01-15T10:22:06Z ERROR api-service Timeout calling inventory-service
+2026-01-15T10:22:10Z INFO  api-service Request completed in 5.2s
+2026-01-15T10:22:14Z WARN  api-service Thread pool queue length exceeded threshold

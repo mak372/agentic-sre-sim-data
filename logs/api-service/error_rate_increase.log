@@ -1,0 +1,5 @@
+2026-01-15T11:03:12Z ERROR api-service NullPointerException in OrderProcessor
+2026-01-15T11:03:14Z ERROR api-service Failed to deserialize request payload
+2026-01-15T11:03:17Z ERROR api-service HTTP 500 returned for POST /orders
+2026-01-15T11:03:21Z WARN  api-service Error rate exceeded 10% threshold
+2026-01-15T11:03:25Z INFO  api-service Circuit breaker opened for payment-service

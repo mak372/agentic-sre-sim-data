@@ -1,0 +1,5 @@
+2026-01-15T12:18:41Z WARN  api-service CPU usage at 94%
+2026-01-15T12:18:44Z WARN  api-service JVM heap usage at 92%
+2026-01-15T12:18:47Z ERROR api-service OutOfMemoryError: Java heap space
+2026-01-15T12:18:52Z INFO  api-service Garbage collection pause 3.4s
+2026-01-15T12:18:58Z WARN  api-service Pod eviction risk detected
